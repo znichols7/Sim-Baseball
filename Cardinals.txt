@@ -1,0 +1,9 @@
+Matt Carpenter	76	77	36	50
+Stephen Piscott	69	66	36	60
+Matt Holliday	73	75	63	77
+Brandon Moss	44	50	88	89
+Randal Grichuk	53	49	62	61
+Yadier Molina	88	79	46	50
+Kolten Wong	68	66	43	40
+Aledmys Diaz	53	50	50	51
+Jedd Gyorko	47	51	60	61

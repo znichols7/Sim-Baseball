@@ -1,0 +1,9 @@
+John Jaso	60	62	46	44
+Andrew McCutche	86	88	66	56
+David Freese	57	65	46	65
+Starling Marte	74	56	48	25
+Francisco Cerve	58	46	29	34
+Gregory Polanco	64	65	47	55
+Josh Harrison	82	77	45	46
+Jordy Mercer	60	65	43	45
+Michael Morse	65	56	62	65
